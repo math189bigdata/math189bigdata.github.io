@@ -8,7 +8,7 @@ This page is created for the Mathematics of Big Data course Spring 2019.
   1. math189r
       * https://math189sp19.github.io
       * This is the page created for Mathematics of Big Data Spring 2019 by
-      Joseph Nunez (adapted from a previous webpage made by Conner DiPaolo), the head grutor of that course.
+      Joseph Nunez (adapted from a previous webpage made by Conner DiPaolo), the head grutor of that course. Course sites for Spring 2020 and Summer 2020 are maintained by Mengyi Shan.
       * Most of the information in syllabus and course schedule are obtained
       from the original page.
   2. TEMPLATED.co
